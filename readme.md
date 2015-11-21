@@ -1,4 +1,4 @@
-# bendrucker [![Build Status](https://travis-ci.org/bendrucker/bendrucker.svg?branch=master)](https://travis-ci.org/bendrucker/bendrucker)
+# bendrucker
 
 > Ben Drucker's contact information
 
