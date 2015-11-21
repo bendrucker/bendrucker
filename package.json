@@ -1,0 +1,21 @@
+{
+  "name": "bendrucker",
+  "main": "./contact.json",
+  "version": "0.0.0",
+  "description": "Ben Drucker's contact information",
+  "license": "MIT",
+  "repository": "bendrucker/bendrucker",
+  "author": {
+    "name": "Ben Drucker",
+    "email": "bvdrucker@gmail.com",
+    "url": "bendrucker.me"
+  },
+  "keywords": [
+    "ben",
+    "drucker",
+    "contact"
+  ],
+  "files": [
+    "contact.json"
+  ]
+}
